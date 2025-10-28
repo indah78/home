@@ -22,7 +22,8 @@ Learning Progess
 | 12  | 00        | 00           | -               | [Modul 12](#)  | [Laporan Modul 12](#) |
 | 13  | 00        | 00           | -               | [Modul 13](#)  | [Laporan Modul 13](#) |
 | 14  | 00        | 00           | -               | [Modul 14](#)  | [Laporan Modul 14](#) |
-
+| 14  | 00        | 00           | -               | [Modul 14](#)  | [Laporan Modul 14](#) |
+| 15  | 00        | 00           | -               | [UTS](#)  | [Laporan Modul 14](https://drive.google.com/file/d/10SmEIJ9ZzLxWFHBrDRS8O-Ki9YgPBzxt/view?usp=sharing) |
 ---
 
 
